@@ -42,5 +42,8 @@ testem.log
 Thumbs.db
 
 # pp & favicon:
-src/assets/images/photos/pp/profile-photo.jpg
+src/assets/images/pp/profile-photo.jpg
 src/favicon.ico
+
+# font
+src/assets/fonts
